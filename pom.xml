@@ -13,7 +13,7 @@
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
                 <maven.compiler.source>6</maven.compiler.source>
                 <maven.compiler.target>1.6</maven.compiler.target>
-        </properties
+        </properties>
 	<dependencies>	
 		<dependency>
 			<groupId>junit</groupId>
